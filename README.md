@@ -9,6 +9,8 @@
 
 ![Thiagomvbs GitHub stats](https://github-readme-stats.vercel.app/api?username=thiagomvbs&show_icons=true&theme=dark)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagomvbs)](https://github.com/thiagomvbs/github-readme-stats)
+
 ### Tecnologias que eu estudo
 
 <div style="display: inline_block"><br/>
