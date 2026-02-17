@@ -2,7 +2,7 @@
 
 
 - 🔭 Hoje estou procurando vagas para estágio
-- 🌱 Estudando Python(Django)
+- 🌱 Estudando Python para Análise de Dados
 - Conhecimento em Java(Spring) e React com TypeScript
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thiagomvbs__)
